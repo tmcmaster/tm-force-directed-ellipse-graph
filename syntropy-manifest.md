@@ -1,35 +1,24 @@
 ---
-project:
-  name: "tm-force-directed-ellipse-graph"
-  description: "D3 Force directed graph with eclipse nodes" # Escape double quotes in description
-  author: "Tim McMaster"
-  version: "0.1.0"
-
-origin:
-  repo_type: "original"
-  git_url: "https://github.com/tmcmaster/tm-force-directed-ellipse-graph"
-  created: "2018-06-16"
-  modified: "2025-05-29"
-
-classification:
-  status: "unsorted"
-  engagement: "shelved"
-  priority: "low"
-  intent: []
-  domain: []
-  audience: "personal"
-
-stack:
-  languages: []
-  frameworks: []
-  databases: []
-  infrastructure: []
-  cloud: "none"
-
-capabilities:
-  features: []
-
-syntropy_id: ""
-collections: []
-tags: []
+Title: tm-force-directed-ellipse-graph
+Description: D3 Force directed graph with eclipse nodes
+Author: Tim McMaster
+Created: '2018-06-16'
+Modified: '2025-05-29'
+Status: concept
+Engagement: back-burner
+Audience: personal
+Priority: sometime
+Version: 0.1.0
+Repo-Type: original
+Repo-Author: tmcmaster
+Repo-Name: tm-force-directed-ellipse-graph
+Intent: []
+Domain: []
+Languages:
+- HTML
+Frameworks: []
+Databases: []
+Infrastructure: []
+Features: []
 ---
+
